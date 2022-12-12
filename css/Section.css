@@ -1,0 +1,11 @@
+section{
+    background-color: rgb(84, 82, 94);
+    padding: 2%;
+    width: 95%;
+    border: 5px solid rgb(255, 255, 255);
+    transition-duration: 750ms;
+}
+
+section:hover{
+    background-color: rgb(190, 186, 211);
+}
